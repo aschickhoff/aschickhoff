@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python at [OpenClassrooms](https://openclassrooms.com/)
-- 🔭 I’m currently working on completing my training path to earn the "Python Developer" certificate, registered at the [National Directory of Professional Certifications](https://www.francecompetences.fr/recherche/rncp/35976/)
+- 🔭 I’m currently working on completing my training path to earn the "Python Developer" certificate, registered at the [National Directory of Professional Certifications](https://www.francecompetences.fr/recherche/rncp/35976/). This diploma is at Bachelor's-level on the EQF (European Qualifications Framework).
 <!--
 **aschickhoff/aschickhoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
