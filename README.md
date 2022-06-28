@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python at [OpenClassrooms](https://openclassrooms.com/)
 <!--
 **aschickhoff/aschickhoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
